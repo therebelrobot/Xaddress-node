@@ -26,9 +26,7 @@ Feel free to take a swing at the source, I'll be building the basics out over th
 
 #### License
 
-[MIT](https://tldrlegal.com/license/mit-license)
-
-The MIT License (MIT)
+[The MIT License (MIT)](https://tldrlegal.com/license/mit-license)
 
 Copyright (c) 2016
 
