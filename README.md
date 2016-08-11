@@ -9,6 +9,12 @@ The goals of this repo aim to have 1:1 parity with the Ruby library currently in
 
 Feel free to take a swing at the source, I'll be building the basics out over the next few days. PRs/Issues welcome.
 
+##### Code style
+
+[![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
+This repo adheres to [feross/standard](https://github.com/feross/standard), SemVer tagging, Gitflow branching, and AngularJS Commit Message formats.
+
 #### Contributors
 
 ##### Original (Ruby) Team
