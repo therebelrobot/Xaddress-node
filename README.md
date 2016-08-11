@@ -22,7 +22,7 @@ Feel free to take a swing at the source, I'll be building the basics out over th
 
 ##### Port (Node) Team
 
-- Trent Oswald ([@therebelrobot](http://github.com/therebelrobot) <`trentoswald``@``therebelrobot.com`>
+- Trent Oswald ([@therebelrobot](http://github.com/therebelrobot)) <`trentoswald``@``therebelrobot.com`>
 
 #### License
 
