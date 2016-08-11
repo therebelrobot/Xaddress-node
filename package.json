@@ -1,0 +1,36 @@
+{
+  "name": "xaddress",
+  "version": "0.0.1",
+  "description": "Node port of Xaddress in Ruby - Give 7 billion people an instant physical address http://xaddress.org",
+  "main": "lib/xaddress.js",
+  "scripts": {
+    "test": "tap ./*.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/Xaddress-node.git"
+  },
+  "keywords": [
+    "address",
+    "physical",
+    "offline",
+    "map",
+    "geolocation",
+    "geo",
+    "location",
+    "xaddress",
+    "long",
+    "lat",
+    "longitude",
+    "latitude",
+    "lowtech",
+    "avatar",
+    "shortcode"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/Xaddress-node/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/Xaddress-node#readme"
+}
