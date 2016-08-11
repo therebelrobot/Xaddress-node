@@ -1,6 +1,6 @@
 {
   "name": "xaddress",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node port of Xaddress in Ruby - Give 7 billion people an instant physical address http://xaddress.org",
   "main": "lib/xaddress.js",
   "scripts": {
