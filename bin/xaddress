@@ -1,3 +1,5 @@
 #! /usr/bin/env node
 
 const xaddress = require('../lib/xaddress')
+
+const nopt = require('nopt') // command-line argument parsing
