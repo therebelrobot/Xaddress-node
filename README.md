@@ -1,19 +1,53 @@
 # Xaddress-node
-A Node port of Xaddress - Work in progress
 
-For current progress on Xaddress proper, please refer to [the original repo](https://github.com/roberdam/Xaddress).
+[![TrustOSS Compliant](http://trustoss.org/badge_version.svg)](http://trustoss.org)
 
-The goals of this repo aim to have 1:1 parity with the Ruby library currently in development. 
+Brief explanation of the project.
 
-#### Contribution
+### Table of Contents
 
-Feel free to take a swing at the source, I'll be building the basics out over the next few days. PRs/Issues welcome.
+- [Installation](#installation)
+  - [Basic Usage Install](#basic-usage-install)
+  - [Production Deployment](#production-deployment)
+  - [Development Install](#development-install)
+- [Usage / API](#usage--api)
+- [Troubleshooting](#troubleshooting)
+- [FAQs](#faqs)
+- [Contributors](#contributors)
+- [Contact](#contact)
+- [Additional Resources](#additional-resources)
+  - [Project Changelog](/CHANGELOG.md)
+  - [Contributing Guide](/CONTRIBUTING.md)
+  - [Code of Conduct](/CODEOFCONDUCT.md)
+  - [Project License](/LICENSE.md)
 
-##### Code style
+### Installation
 
-[![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+Installation details should include local installation steps, and steps to deploy for end users (if applicable)
 
-This repo adheres to [feross/standard](https://github.com/feross/standard), SemVer tagging, Gitflow branching, and AngularJS Commit Message formats.
+#### Basic Usage Install
+
+This is what the average visitor would need to do to install your application.
+
+#### Production Deployment
+
+This is what a project implementor or partner (read: devops) would need to do to deploy your application in production (if applicable).
+
+#### Development Install
+
+This is what a project contributor would need to do to install your application locally.
+
+### Usage / API
+
+This should outline the basic and advanced usage of your application, and a complete API reference (if applicable)
+
+### Troubleshooting
+
+This section is a work in progress. Troubleshooting issues and solutions will be posted here as they are raised.
+
+### FAQs
+
+This section is a work in progress. FAQs will be posted here as they are raised.
 
 #### Contributors
 
@@ -30,14 +64,14 @@ This repo adheres to [feross/standard](https://github.com/feross/standard), SemV
 
 - Trent Oswald ([@therebelrobot](http://github.com/therebelrobot)) <`trentoswald``@``therebelrobot.com`>
 
-#### License
 
-[The MIT License (MIT)](https://tldrlegal.com/license/mit-license)
+### Contact
 
-Copyright (c) 2016
+Feel free to open a Gtihub issue to contact the maintainers.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+### Additional Resources
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+- [Project Changelog](CHANGELOG.md)
+- [Contributing Guide](docs/CONTRIBUTING.md)
+- [Code of Conduct](docs/CODEOFCONDUCT)
+- [Project License](LICENSE.md)
