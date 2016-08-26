@@ -5,3 +5,15 @@ const xaddress = require('../lib/xaddress')
 const nopt = require('nopt') // command-line argument parsing
 
 console.log('ran')
+EXIT_CONDITION = false
+xaddress.encode({}).then(results =>{
+  EXIT_CONDITION = true
+}).catch(err => {
+  console.error(err)
+  EXIT_CONDITION = true
+  
+})
+
+;(function wait () {
+  if (!EXIT_CONDITION) setTimeout(wait, 1000)
+})()

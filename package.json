@@ -38,9 +38,10 @@
   },
   "homepage": "https://github.com/therebelrobot/Xaddress-node#readme",
   "dependencies": {
-    "csv": "^1.1.0",
-    "node-geolocation": "git://github.com/therebelrobot/node-geolocation.git",
-    "nopt": "^3.0.6"
+    "better-require": "0.0.3",
+    "node-geocoder": "^3.14.0",
+    "nopt": "^3.0.6",
+    "numbro": "^1.9.3"
   },
   "devDependencies": {
     "careful": "^1.0.2",
