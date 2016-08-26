@@ -3,3 +3,5 @@
 const xaddress = require('../lib/xaddress')
 
 const nopt = require('nopt') // command-line argument parsing
+
+console.log('ran')
